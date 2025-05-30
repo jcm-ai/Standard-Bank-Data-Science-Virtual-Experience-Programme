@@ -9,7 +9,7 @@
 - 4: Putting It All Together
 
 ## ♦ Task 1 - SQL for Data Scientists
-A relationship with relational databases
+*A relationship with relational databases*
 
 **Here is the background information**
 
@@ -36,7 +36,7 @@ To improve the process, Standard Bank wants to make use of machine learning to a
 ![CRISP-DM](https://user-images.githubusercontent.com/27211670/206142421-404b73a0-ea12-4c10-ad7b-73445756b6b6.png)
 
 
-**Here is task**
+**Here is task:**
 
 The beginning of any data science project involves understanding the business and the data. Business understanding is focused on setting the business objectives, project assessment, defining the success criteria and project planning. Understanding the business is essential to any data science project. After this, the next phase is Data Understanding. To understand the data, we have to identify, collect, analyze and verify data quality from one or multiple data sources to accomplish the business goals. These tasks can be done in SQL. SQL is a crucial skill to have as a data scientist, as you will be required to work with structured data stored in relational databases.
 
@@ -46,11 +46,11 @@ To complete this task, answer the multiple-choice quiz. This multiple choice con
 ## ♦ Task 2 - Data Science With Python
 AutoML vs bespoke
 
-**Here is the background information**
+**Here is the background information:**
 
 Now that you understand the CRoss Industry Standard Process for Data Mining (CRISP-DM), and have an idea of the business needs, it is time to understand the data, prepare for modelling and, of course, train a model. As a data scientist, it is important to know the tools that are available to you to perform your daily tasks and know when to use each tool. The tools available have advanced to automated techniques but automated is not always better. Your manager has been approached by some cloud service provider and promises that automated is the way to go. He wants you to investigate if that is indeed true.
 
-**Here is task**
+**Here is task:**
 
 In this task, you will make use of automated machine learning as well as traditional machine learning. The manager of the home loans department, who has provided us with sample data, wants to know a few things about the data. The questions about the data can be found in the notebook provided in the Resources section below. 
 
@@ -59,15 +59,15 @@ The manager is also interested in understanding what machine learning really is 
 We will use Python and its extensive collection of libraries to derive valuable insights from the data, prepare the data and train machine learning models - the old fashioned way and in newer, automated ways. We have provided two datasets in the form of CSVs and Jupyter Notebook. The notebook has been annotated to assist you.
 
 ## ♦ Task 3 - Preparing to Present
-Back to understanding the business
+*Back to understanding the business*
 
-**Here is the background information**
+**Here is the background information:**
 
 As a data scientist, you will be required to present your findings. This tests just how well you understood the business problem and business objectives. The manager of the home loans department, like many other project sponsors you might have to present to, has a limited technical background. Her interest is business-oriented, so you should discuss your results in terms of the business problem with minimal technical details.
 
 In this task, you will prepare to present not only to the manager of the home loans department but also to your manager/team.
 
-**Here is task**
+**Here is task:**
 
 To cover the above considerations, we recommend you structure the presentation in a similar manner to the template provided in Resources. 
 
@@ -92,15 +92,15 @@ To cover the above considerations, we recommend you structure the presentation i
 Note that the sections in the template can be mixed up to tell your story and that not all the analysis needs to be included.
 
 ## ♦ Task 4 - Putting It All Together
-Presenting your insights to a non-technical audience
+*Presenting your insights to a non-technical audience*
 
-**Here is the background information**
+**Here is the background information:**
 
 As a data scientist, you will be required to present your findings. This tests just how well you understood the business problem and business objectives. Don’t forget that the manager of the home loans department has a limited technical background and is more focused on the business aspect. As you present, make sure to focus your discussion on the business aspect and not so much on the technical details. 
 
 In this task,  you will prepare to present your findings. You will be presenting to the manager of the home loans department and also your manager and team.
 
-**Here is task**
+**Here is task:**
 
 Film a 5 to 10-minute video presentation outlining your findings from the previous task. Upload it below once done. Remember to not be too technical!
 
